@@ -1,0 +1,48 @@
+.first-one {
+  width: 600px;
+
+  margin: auto;
+
+  background-color: white;
+  border-radius: 50px;
+  margin-top: 40px;
+  height: 650px;
+}
+
+body {
+  background-color: rgb(1, 1, 87);
+}
+
+.first-two {
+  width: 600px;
+  height: 300px;
+  margin: auto;
+  border-radius: 50px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+.first-three {
+  margin-left: 0px;
+  margin-bottom: 50px;
+}
+
+.first-four {
+  margin-left: 70px;
+  color: rgb(119, 119, 255);
+  margin-bottom: 30px;
+}
+
+.first-five {
+  margin-left: 70px;
+  color: rgb(6, 6, 78);
+  margin-bottom: 20px;
+}
+
+.first-six {
+  margin-left: 70px;
+}
+
+.first-seven {
+  color: rgb(95, 95, 241);
+}
